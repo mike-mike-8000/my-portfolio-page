@@ -1,0 +1,19 @@
+nav{
+    background-color: powderblue ;
+}
+div {
+    color: #008000
+}
+
+footer{
+    background-color: lightblue;
+}
+
+table {
+    width: 100%;
+}
+ tr, td, th{
+    padding: 10px;
+    border: 1px black;
+    border-collapse: collapse;
+  }
